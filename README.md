@@ -1,6 +1,6 @@
 # Project Title
 
-Data Entry Application using Tkinter
+Employee Registration Form Application using Tkinter
 
 ## Description
 
@@ -35,9 +35,7 @@ Data Entry Application using Tkinter
 * Run the program
 * Tool will ask to enter the path of the output csv file
 * Employee Entry application will open and user should enter the employee details
-* Click the "Add" button, the application will check the validations and store the values in the variable.
-* Again user should enter the next employee details
-* Finally click the Submit, all the employee details will stored to the csv file in the provided csv ouput path
+* Click the "Add" button, the application will check the validations and details will stored to the csv file in the provided csv ouput path
 * If already datas present in the csv file then tool will append the employee details in the csv file
 
 ### Help
